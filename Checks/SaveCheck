@@ -1,0 +1,2 @@
+/em attempts to resist…
+&{template:default} {{name=Saving Throw}}  {{Result= ?{Type of Save|Strength, Strength [[1d20 + @{selected|strength_save_bonus}]] | Dexterity, Dexterity [[1d20 + @{selected|dexterity_save_bonus}]] | Constitution, Constitution [[1d20 + @{selected|constitution_save_bonus}]] | Intelligence, Intelligence [[1d20 + @{selected|intelligence_save_bonus}]] | Wisdom, Wisdom [[1d20 + @{selected|wisdom_save_bonus}]] | Charisma, Charisma [[1d20 + @{selected|charisma_save_bonus}]]}}}
