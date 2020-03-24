@@ -1,0 +1,2 @@
+/em sings out with one beautifully long healing note to @{target|token_name} with a bonus action
+&{template:default} {{name=Healing Word}} {{Heal=[[?{Spell Level|Level 1, 1d4+@{selected|charisma_mod}|Level 2, 2d4+@{selected|charisma_mod}|Level 3, 3d4+@{selected|charisma_mod}|Level 4, 4d4+@{selected|charisma_mod}|Level 5, 5d4+@{selected|charisma_mod}|Level 6, 6d4+@{selected|charisma_mod}|Level 7, 7d4+@{selected|charisma_mod}|Level 8, 8d4+@{selected|charisma_mod}|Level 9, 9d4+@{selected|charisma_mod}}]] HP}}
