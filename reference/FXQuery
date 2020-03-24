@@ -1,0 +1,1 @@
+/fx ?{Type|beam|bomb|breath|bubbling|burn|burst|explode|glow|missile|nova|splatter}-?{Color|acid|blood|charm|death|fire|frost|holy|magic|slime|smoke|water} @{target|Caster|token_id} @{target|Foe|token_id}
