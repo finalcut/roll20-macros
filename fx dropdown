@@ -1,0 +1,1 @@
+/fx ?{Type|Beam,beam|Bomb,bomb|Breath,breath|Bubbling,bubbling|Burn,burn|Burst,burst|Explosion,explode|Glow,glow|Missile,missile|Nova,nova|Spatter,splatter}-?{Color|Acid,acid|Blood,blood|Charm,charm|Death,death|Fire,fire|Frost,frost|Holy,holy|Magic,magic|Slime,slime|Smoke,smoke|Water,water} @{target|Source|token_id} @{target|Destination|token_id}
